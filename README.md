@@ -20,7 +20,7 @@ a human user, Claude, and ChatGPT.
 1. A user inputs a USER PROMPT of untested Python code
 2. Claude refactors the code in accord with best practice (algorighmic efficiency, 
 cyclomatic complexity, PEP8, etc.)
-3. ChatGPT reviews the refactor and either accepts or refects the refactored code.
+3. ChatGPT reviews the refactor and either accepts or rejects the refactored code.
 
 ## TODO
 
